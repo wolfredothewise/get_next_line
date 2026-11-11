@@ -144,10 +144,7 @@ test against systems without permission.
 - The project is educational code, not a production-ready replacement for a
   complete stream abstraction.
 
-### License
 
-No license file is currently provided. Treat the code as educational material
-unless the repository owner specifies otherwise.
 
 <details>
 <summary id="español">Español</summary>
